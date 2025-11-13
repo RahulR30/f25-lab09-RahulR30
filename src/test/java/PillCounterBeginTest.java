@@ -13,7 +13,7 @@ import static org.junit.Assert.assertTrue;
 public class PillCounterBeginTest {
 
   /**
-   * You may think of this as representative of the client
+   * You may think of this as representatieve of the client
    * of a pill counter. It represents a heavy usage of the
    * pill counter, responding to an actual conveyer belt
    * that is bottling a large quantity of pill bottles of varying capacities.
@@ -55,4 +55,5 @@ public class PillCounterBeginTest {
     }
     return true;
   }
+
 }
